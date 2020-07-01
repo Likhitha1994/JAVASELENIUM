@@ -23,6 +23,6 @@ public class Vaild extends Generic_Test
 		lp.setUsername(username9);
 		lp.setPassword(password9);
 		lp.Login();
-	
+		System.out.println("entered new data");
 	}
 }

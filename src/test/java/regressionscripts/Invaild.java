@@ -39,8 +39,5 @@ public class Invaild extends Generic_Test
 		Assert.assertEquals(atitle, etitle);
 		Assert.fail();//manually failing the test case
 		System.out.println(etitle);
-		System.out.println("changing the code in central reprository new statement");
-		System.out.println("changing the code 1234444");
-		System.out.println("changing the code 0986554444");
-	}
+
 }
