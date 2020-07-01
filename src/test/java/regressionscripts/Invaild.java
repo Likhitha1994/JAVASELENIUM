@@ -39,6 +39,5 @@ public class Invaild extends Generic_Test
 		Assert.assertEquals(atitle, etitle);
 		Assert.fail();//manually failing the test case
 		System.out.println(etitle);
-		
-			}
+
 }
